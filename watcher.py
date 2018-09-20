@@ -18,7 +18,7 @@ gImgCount=6
 # To run program in debug mode, set  gDebugMode =1
 # Make sure to have a file named sample_image.jpg in the same folder as the Watcher.py program
 # Once testing is complete, set this flag to 0
-gDebugMode=1
+gDebugMode=0
 
 # ---- Program Execution Mode ----
 # Instead of using the cron scheduler, you can run this program in an endless loop
